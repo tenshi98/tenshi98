@@ -77,7 +77,7 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <div>
 <img style="margin-left:5px;" align="left" alt="Symphony"    width="52px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Symphony_Logo.png" />
 <img style="margin-left:5px;" align="left" alt="Cake"        width="52px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Cake-logo.png/220px-Cake-logo.png" />
-<img style="margin-left:5px;" align="left" alt="Yii"         width="52px" src="https://upload.wikimedia.org/wikipedia/id/a/ae/Yii.png" />
+<img style="margin-left:5px;" align="left" alt="Yii"         width="40px" src="https://upload.wikimedia.org/wikipedia/id/a/ae/Yii.png" />
 <img style="margin-left:5px;" align="left" alt="CodeIgniter" width="26px" src="https://www.codeigniter.com/assets/images/codeigniter4logo.png" />
 <img style="margin-left:5px;" align="left" alt="Laravel"     width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png" />
 </div>
@@ -98,10 +98,10 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="Microsoft Access"               width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/80px-Microsoft_Office_Access_%282019-present%29.svg.png" />
 <img style="margin-left:5px;" align="left" alt="SQL Server 2005 – 2008 y 2013"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img style="margin-left:5px;" align="left" alt="Oracle"                         width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/56px-Oracle_SQL_Developer_logo.svg.png" />
-<img style="margin-left:5px;" align="left" alt="MySQL"                          width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img style="margin-left:5px;" align="left" alt="MySQL"                          width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img style="margin-left:5px;" align="left" alt="Maria DB"                       width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/MariaDB_colour_logo.svg/416px-MariaDB_colour_logo.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Postgre SQL"                    width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" />
-<img style="margin-left:5px;" align="left" alt="MongoDB"                        width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img style="margin-left:5px;" align="left" alt="MongoDB"                        width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </div>
 <br/>
 
@@ -122,7 +122,7 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="C++"                width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img style="margin-left:5px;" align="left" alt="C#"                 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img style="margin-left:5px;" align="left" alt="JSON"               width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
-<img style="margin-left:5px;" align="left" alt="Jquery"             width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img style="margin-left:5px;" align="left" alt="Jquery"             width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img style="margin-left:5px;" align="left" alt="JavaScript"         width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img style="margin-left:5px;" align="left" alt="Ajax"               width="26px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />
 <img style="margin-left:5px;" align="left" alt="Java"               width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -146,7 +146,7 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <div>
 <img style="margin-left:5px;" align="left" alt="Game Maker Studio"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/GM_Studio_Logo.png" />
 <img style="margin-left:5px;" align="left" alt="Intersect Engine"   width="26px" src="https://www.ascensiongamedev.com/uploads/monthly_2019_09/LogoVText.thumb.png.4290876ec940b4bbf87e12f3df1f39e4.png" />
-<img style="margin-left:5px;" align="left" alt="Unity"              width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+<img style="margin-left:5px;" align="left" alt="Unity"              width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img style="margin-left:5px;" align="left" alt="Unreal Engine"      width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
 <img style="margin-left:5px;" align="left" alt="GameSalad"          width="26px" src="https://www.accentsconagua.com/img/images_23/quickly-creating-games-with-gamesalad.png" />
 <img style="margin-left:5px;" align="left" alt="Stencyl"            width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Stencyl_logotype.svg/250px-Stencyl_logotype.svg.png" />
