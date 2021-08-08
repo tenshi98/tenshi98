@@ -13,8 +13,8 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 # Habilidades:
 #### Sistemas Operativos:
 <div>
-<img style="margin-left:5px;" align="left" alt="Windows XP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Unofficial_fan_made_Windows_XP_logo_variant.svg/100px-Unofficial_fan_made_Windows_XP_logo_variant.svg.png" />
-<img style="margin-left:5px;" align="left" alt="Windows 7"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unofficial_fan_made_Windows_7_logo_variant.svg/100px-Unofficial_fan_made_Windows_7_logo_variant.svg.png" />
+<img style="margin-left:5px;" align="left" alt="Windows XP" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Unofficial_fan_made_Windows_XP_logo_variant.svg/100px-Unofficial_fan_made_Windows_XP_logo_variant.svg.png" />
+<img style="margin-left:5px;" align="left" alt="Windows 7"  width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unofficial_fan_made_Windows_7_logo_variant.svg/100px-Unofficial_fan_made_Windows_7_logo_variant.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Windows 10" width="26px" src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-11.png" />
 <img style="margin-left:5px;" align="left" alt="Windows 11" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/800px-Windows_logo_-_2021.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Ubuntu"     width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
@@ -26,6 +26,8 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="CentOS"     width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CentOS_color_logo.svg/256px-CentOS_color_logo.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Mac OSX"    width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/OS_X_El_Capitan_logo.svg/125px-OS_X_El_Capitan_logo.svg.png" />
 </div>
+<br />
+
 #### Diseño Grafico:
 <div>
 <img style="margin-left:5px;" align="left" alt="Fireworks"               width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adobe_Fireworks_CS6_Icon.png/150px-Adobe_Fireworks_CS6_Icon.png" />
@@ -35,11 +37,15 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="Krita"                   width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/64px-Calligrakrita-base.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Inkscape"                width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/120px-Inkscape_Logo.svg.png" />
 </div>
+<br />
+
 #### Diseño Web:
 <div>
 <img style="margin-left:5px;" align="left" alt="Dreamweaver"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Adobe_Dreamweaver_CS6_Icon.png" />
 <img style="margin-left:5px;" align="left" alt="Flash"        width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adobe_Flash_Player_32.svg/250px-Adobe_Flash_Player_32.svg.png" />
 </div>
+<br />
+
 #### Diseño App:
 <div>
 <img style="margin-left:5px;" align="left" alt="Xcode"           width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
@@ -47,6 +53,8 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="Visual Studio"   width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/164px-Visual_Studio_2017_Logo.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Apache Netbeans" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" />
 </div>
+<br />
+
 #### IDE Programación:
 <div>
 <img style="margin-left:5px;" align="left" alt="PHP Designer"       width="26px" src="https://image.pngaaa.com/27/2197027-middle.png" />
@@ -58,6 +66,8 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="Notepad++"          width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/128px-Notepad%2B%2B_Logo.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </div>
+<br />
+
 #### Framework PHP:
 <div>
 <img style="margin-left:5px;" align="left" alt="Symphony"    width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Symphony_Logo.png" />
@@ -66,12 +76,16 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="CodeIgniter" width="26px" src="https://www.codeigniter.com/assets/images/codeigniter4logo.png" />
 <img style="margin-left:5px;" align="left" alt="Laravel"     width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png" />
 </div>
+<br />
+
 #### Framework Diseño:
 <div>
 <img style="margin-left:5px;" align="left" alt="Bootstrap"      width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img style="margin-left:5px;" align="left" alt="Pure CSS"       width="26px" src="https://avatars.githubusercontent.com/u/23743443?s=200&v=4" />
 <img style="margin-left:5px;" align="left" alt="Font Awesome"   width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Font_awesome_font_awesome.svg/640px-Font_awesome_font_awesome.svg.png" />
 </div>
+<br />
+
 #### Bases de Datos:
 <div>
 <img style="margin-left:5px;" align="left" alt="Microsoft Access"               width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/80px-Microsoft_Office_Access_%282019-present%29.svg.png" />
@@ -82,6 +96,8 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="Postgre SQL"                    width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" />
 <img style="margin-left:5px;" align="left" alt="MongoDB"                        width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </div>
+<br />
+
 #### Lenguajes de Programación:
 <div>
 <img style="margin-left:5px;" align="left" alt="HTML5"              width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -103,6 +119,8 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="Ajax"               width="26px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />
 <img style="margin-left:5px;" align="left" alt="Java"               width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 </div>
+<br />
+
 #### Diseño 3D:
 <div>
 <img style="margin-left:5px;" align="left" alt="3D Studio Max"               width="26px" src="https://wiki.our.dmu.ac.uk/w/images/thumb/8/80/3ds-max-logo.png/300px-3ds-max-logo.png" />
@@ -112,6 +130,8 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="Maxon Cinema 4D"             width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/C4D_Logo.png/64px-C4D_Logo.png" />
 <img style="margin-left:5px;" align="left" alt="Blender"                     width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" />
 </div>
+<br />
+
 #### Diseño Juegos:
 <div>
 <img style="margin-left:5px;" align="left" alt="Game Maker Studio"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/GM_Studio_Logo.png" />
@@ -122,6 +142,8 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="Stencyl"            width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Stencyl_logotype.svg/250px-Stencyl_logotype.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Godot"              width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png" />
 </div>
+<br />
+
 #### Manejo Servidores:
 <div>
 <img style="margin-left:5px;" align="left" alt="Windows Server 2003"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2013_Windows_Server_logo.svg/100px-2013_Windows_Server_logo.svg.png" />
@@ -131,12 +153,14 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="CentOS Server"        width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Centos_full.svg/480px-Centos_full.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Fedora Server"        width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/512px-Fedora_logo_%282021%29.svg.png" />
 </div>
+<br />
+
 ### Manejo Versiones:
 <div>
-<img style="margin-left:5px;" align="left" alt="Git"    width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img style="margin-left:5px;" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img style="margin-left:5px;" align="left" alt="Git"      width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img style="margin-left:5px;" align="left" alt="GitHub"   width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img style="margin-left:5px;" align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
+<br />
 
-<br />
-<br />
+
