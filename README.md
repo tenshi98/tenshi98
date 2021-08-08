@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Portada.png' />
+<img src='https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Portada%202.png' />
 
 ### Hola, soy Victor Reyes - aka [tenshi98][website] 
 [![Website](https://img.shields.io/website?label=digitalcreations.cl&style=for-the-badge&url=https%3A%2F%2Fdigitalcreations.cl)](https://digitalcreations.cl)
@@ -61,7 +61,7 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="Comodo Edit"        width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Komodo_Edit_icon.png/64px-Komodo_Edit_icon.png" />
 <img style="margin-left:5px;" align="left" alt="Adobe Brackets"     width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/220px-Brackets_Icon.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Sublime Text"       width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" />
-<img style="margin-left:5px;" align="left" alt="Codelobster"        width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Codelobster-logo.png" />
+<img style="margin-left:5px;" align="left" alt="Codelobster"        width="52px" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Codelobster-logo.png" />
 <img style="margin-left:5px;" align="left" alt="Geany Editor"       width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/64px-Geany_logo.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Notepad++"          width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/128px-Notepad%2B%2B_Logo.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -70,9 +70,9 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 
 #### Framework PHP:
 <div>
-<img style="margin-left:5px;" align="left" alt="Symphony"    width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Symphony_Logo.png" />
-<img style="margin-left:5px;" align="left" alt="Cake"        width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Cake-logo.png/220px-Cake-logo.png" />
-<img style="margin-left:5px;" align="left" alt="Yii"         width="26px" src="https://upload.wikimedia.org/wikipedia/id/a/ae/Yii.png" />
+<img style="margin-left:5px;" align="left" alt="Symphony"    width="52px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Symphony_Logo.png" />
+<img style="margin-left:5px;" align="left" alt="Cake"        width="52px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Cake-logo.png/220px-Cake-logo.png" />
+<img style="margin-left:5px;" align="left" alt="Yii"         width="52px" src="https://upload.wikimedia.org/wikipedia/id/a/ae/Yii.png" />
 <img style="margin-left:5px;" align="left" alt="CodeIgniter" width="26px" src="https://www.codeigniter.com/assets/images/codeigniter4logo.png" />
 <img style="margin-left:5px;" align="left" alt="Laravel"     width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png" />
 </div>
@@ -91,10 +91,10 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="Microsoft Access"               width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/80px-Microsoft_Office_Access_%282019-present%29.svg.png" />
 <img style="margin-left:5px;" align="left" alt="SQL Server 2005 – 2008 y 2013"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img style="margin-left:5px;" align="left" alt="Oracle"                         width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/56px-Oracle_SQL_Developer_logo.svg.png" />
-<img style="margin-left:5px;" align="left" alt="MySQL"                          width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img style="margin-left:5px;" align="left" alt="Maria DB"                       width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/MariaDB_colour_logo.svg/416px-MariaDB_colour_logo.svg.png" />
+<img style="margin-left:5px;" align="left" alt="MySQL"                          width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img style="margin-left:5px;" align="left" alt="Maria DB"                       width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/MariaDB_colour_logo.svg/416px-MariaDB_colour_logo.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Postgre SQL"                    width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" />
-<img style="margin-left:5px;" align="left" alt="MongoDB"                        width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img style="margin-left:5px;" align="left" alt="MongoDB"                        width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </div>
 <br />
 
@@ -107,26 +107,26 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <img style="margin-left:5px;" align="left" alt="PHP"                width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img style="margin-left:5px;" align="left" alt="Ruby"               width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img style="margin-left:5px;" align="left" alt="RGSS"               width="26px" src="http://pm1.narvii.com/6483/a76ee6e82b3fa47545874ca0146deee3c9e65ebe_00.jpg" />
-<img style="margin-left:5px;" align="left" alt="Sap Abap Netweaver" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/290px-SAP_2011_logo.svg.png" />
-<img style="margin-left:5px;" align="left" alt="ASP"                width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Asp.net.svg/800px-Asp.net.svg.png" />
+<img style="margin-left:5px;" align="left" alt="Sap Abap Netweaver" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/290px-SAP_2011_logo.svg.png" />
+<img style="margin-left:5px;" align="left" alt="ASP"                width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Asp.net.svg/800px-Asp.net.svg.png" />
 <img style="margin-left:5px;" align="left" alt=".NET"               width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img style="margin-left:5px;" align="left" alt="Visual Basic"       width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />
 <img style="margin-left:5px;" align="left" alt="C++"                width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img style="margin-left:5px;" align="left" alt="C#"                 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img style="margin-left:5px;" align="left" alt="JSON"               width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
-<img style="margin-left:5px;" align="left" alt="Jquery"             width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img style="margin-left:5px;" align="left" alt="Jquery"             width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img style="margin-left:5px;" align="left" alt="JavaScript"         width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img style="margin-left:5px;" align="left" alt="Ajax"               width="26px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />
-<img style="margin-left:5px;" align="left" alt="Java"               width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img style="margin-left:5px;" align="left" alt="Java"               width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 </div>
 <br />
 
 #### Diseño 3D:
 <div>
-<img style="margin-left:5px;" align="left" alt="3D Studio Max"               width="26px" src="https://wiki.our.dmu.ac.uk/w/images/thumb/8/80/3ds-max-logo.png/300px-3ds-max-logo.png" />
+<img style="margin-left:5px;" align="left" alt="3D Studio Max"               width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Autodesk_Logo.svg/800px-Autodesk_Logo.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Autocad"                     width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/AutoCAD_2018_icon.png/64px-AutoCAD_2018_icon.png" />
 <img style="margin-left:5px;" align="left" alt="Poser"                       width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Poser.png" />
-<img style="margin-left:5px;" align="left" alt="Chief Architect Premier X9"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chief-Architect.png/200px-Chief-Architect.png" />
+<img style="margin-left:5px;" align="left" alt="Chief Architect Premier X9"  width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chief-Architect.png/200px-Chief-Architect.png" />
 <img style="margin-left:5px;" align="left" alt="Maxon Cinema 4D"             width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/C4D_Logo.png/64px-C4D_Logo.png" />
 <img style="margin-left:5px;" align="left" alt="Blender"                     width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" />
 </div>
@@ -136,22 +136,22 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 <div>
 <img style="margin-left:5px;" align="left" alt="Game Maker Studio"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/GM_Studio_Logo.png" />
 <img style="margin-left:5px;" align="left" alt="Intersect Engine"   width="26px" src="https://www.ascensiongamedev.com/uploads/monthly_2019_09/LogoVText.thumb.png.4290876ec940b4bbf87e12f3df1f39e4.png" />
-<img style="margin-left:5px;" align="left" alt="Unity"              width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+<img style="margin-left:5px;" align="left" alt="Unity"              width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img style="margin-left:5px;" align="left" alt="Unreal Engine"      width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
 <img style="margin-left:5px;" align="left" alt="GameSalad"          width="26px" src="https://www.accentsconagua.com/img/images_23/quickly-creating-games-with-gamesalad.png" />
-<img style="margin-left:5px;" align="left" alt="Stencyl"            width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Stencyl_logotype.svg/250px-Stencyl_logotype.svg.png" />
+<img style="margin-left:5px;" align="left" alt="Stencyl"            width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Stencyl_logotype.svg/250px-Stencyl_logotype.svg.png" />
 <img style="margin-left:5px;" align="left" alt="Godot"              width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png" />
 </div>
 <br />
 
 #### Manejo Servidores:
 <div>
-<img style="margin-left:5px;" align="left" alt="Windows Server 2003"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2013_Windows_Server_logo.svg/100px-2013_Windows_Server_logo.svg.png" />
-<img style="margin-left:5px;" align="left" alt="Windows Server 2012"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Windows_server_2012-logo.png/800px-Windows_server_2012-logo.png" />
+<img style="margin-left:5px;" align="left" alt="Windows Server 2003"  width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2013_Windows_Server_logo.svg/100px-2013_Windows_Server_logo.svg.png" />
+<img style="margin-left:5px;" align="left" alt="Windows Server 2012"  width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Windows_server_2012-logo.png/800px-Windows_server_2012-logo.png" />
 <img style="margin-left:5px;" align="left" alt="Ubuntu Server"        width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ubuntu_and_Ubuntu_Server_Icon.png" />
 <img style="margin-left:5px;" align="left" alt="Debian Server"        width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/484px-Openlogo-debianV2.svg.png" />
-<img style="margin-left:5px;" align="left" alt="CentOS Server"        width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Centos_full.svg/480px-Centos_full.svg.png" />
-<img style="margin-left:5px;" align="left" alt="Fedora Server"        width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/512px-Fedora_logo_%282021%29.svg.png" />
+<img style="margin-left:5px;" align="left" alt="CentOS Server"        width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Centos_full.svg/480px-Centos_full.svg.png" />
+<img style="margin-left:5px;" align="left" alt="Fedora Server"        width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/512px-Fedora_logo_%282021%29.svg.png" />
 </div>
 <br />
 
