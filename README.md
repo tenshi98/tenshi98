@@ -1,8 +1,11 @@
 <img src='https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Portada%202.png' />
 
-### Hola, soy Victor Reyes.
+<h1 align="center">Hola <img src="hhttps://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Wave.gif" height="55px" width="55px">, soy Victor Reyes.</h1>
+
 [![Website](https://img.shields.io/website?label=digitalcreations.cl&style=for-the-badge&url=https%3A%2F%2Fdigitalcreations.cl)](https://digitalcreations.cl)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/victor-reyes-galvez-a2a32134/)
+[![Gmail](https://img.shields.io/badge/Gmail-Gmail-red?color=EA4335&logo=gmail&style=for-the-badge)](mailto:victor.reyes.nph@gmail.com)
+
 # Perfil
 Soy un programador desde el 2013 y cuento con una amplia experiencia en el desarrollo de aplicaciones web, móviles y de escritorio. 
 
