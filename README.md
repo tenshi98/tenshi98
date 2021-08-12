@@ -1,6 +1,6 @@
 <img src='https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Portada%202.png' />
 
-<h1 align="center">Hola <img src="hhttps://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Wave.gif" height="55px" width="55px">, soy Victor Reyes.</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Wave.gif" height="55px" width="55px">, soy Victor Reyes.</h1>
 
 [![Website](https://img.shields.io/website?label=digitalcreations.cl&style=for-the-badge&url=https%3A%2F%2Fdigitalcreations.cl)](https://digitalcreations.cl)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/victor-reyes-galvez-a2a32134/)
