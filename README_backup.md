@@ -220,7 +220,7 @@ const victorReyes = {
 </div>
 
 
-<h4 align="center">📈 Estadisticas</h4>
+<h2 align="center">📈 Estadisticas</h2>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenshi98&show_icons=true&locale=en&layout=compact" alt="tenshi98" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tenshi98&show_icons=true&locale=en" alt="tenshi98" />
