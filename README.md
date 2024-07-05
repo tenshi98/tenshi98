@@ -24,6 +24,7 @@ const victorReyes = {
 				Year : 1991 - 1998 } 
 				],
 	Experiencia : [
+				'SimplyTech',
 				'Crosstech',
 				'Exilon 360 SPA',
 				'Natural Phone S.A.',
