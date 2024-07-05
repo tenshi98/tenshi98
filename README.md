@@ -13,27 +13,36 @@ También de vez en cuando realizo trabajos como freelance, principalmente en la 
 
 <h2 align="center">💻 Un poco mas de mi...</h2>
 
-```javascript
-const victorReyes = {
-	Educacion : [ 
-				{ Enseñanza Universitaria: Uniacc, 
-				Year :2012-2014  }, 
-				{ Enseñanza Media : Colegio Politécnico Particular Eyzaguirre,  
-				Year : 1999 - 2002 }, 
-				{ Enseñanza Básica : Escuela Domingo Mate Mesías,  
-				Year : 1991 - 1998 } 
-				],
-	Experiencia : [
-				'SimplyTech',
-				'Crosstech',
-				'Exilon 360 SPA',
-				'Natural Phone S.A.',
-				'Novafoods S.A.',
-				'Chile Digital Limitada',
-				'Simyl S.A.',
-				'Nielsoft Informática Ltda',
-				]
-}
+```php
+$Educacion = [
+		[
+		    "Enseñanza Universitaria" => "Uniacc",
+		    "Year" => "2012-2014",
+		],
+		[
+		    "Enseñanza Media" => "Colegio Politécnico Particular Eyzaguirre",
+		    "Year" => "1999 - 2002",
+		],
+		[
+		    "Enseñanza Básica" => "Escuela Domingo Mate Mesías",
+		    "Year" => "1991 - 1998",
+		],
+
+];
+
+$Experiencia = [
+		"SimplyTech"                        => "Enero 2024 – A la fecha",
+		"Crosstech"                         => "Octubre 2020 – Diciembre 2023",
+		"Exilon 360 SPA"                    => "Junio 2016 – Agosto 2020",
+		"Natural Phone S.A."                => "Mayo 2014 – Mayo 2016",
+		"Novafoods S.A."                    => "Enero 2014 – Febrero 2014",
+		"Chile Digital Limitada"            => "Octubre 2013 – Diciembre 2013",
+		"Simyl S.A."                        => "Mayo 2013 – Octubre 2013",
+		"Nielsoft Informática Ltda"         => "Diciembre 2011 – Abril 2013",
+		"Automotora Patricio Hidalgo S.A."  => "Julio 2011 – Noviembre 2011",
+		"Viña Concha y Toro S.A."           => "Marzo 2003 – Junio 2011",
+];
+
 ```
 
 <h2 align="center">💻 Trofeos :</h2>
