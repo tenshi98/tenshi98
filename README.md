@@ -92,7 +92,7 @@ $Experiencia = [
 <h4 align="center">⚙️ Framework PHP</h4>
 <div  align="center">
 
-| <img alt="Symphony"    width="52px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Symphony_Logo.png" />| <img alt="Cake"        width="52px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Cake-logo.png/220px-Cake-logo.png" />| <img alt="Yii"         width="52px" src="https://upload.wikimedia.org/wikipedia/id/a/ae/Yii.png" />| <img alt="CodeIgniter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CodeIgniter_Logo.svg/640px-CodeIgniter_Logo.svg.png" />| <img alt="Laravel"     width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png" />
+| <img alt="Symphony"    width="52px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Symphony_Logo.png" />| <img alt="Cake"        width="52px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Cake-logo.png/220px-Cake-logo.png" />| <img alt="Yii"         width="52px" src="https://upload.wikimedia.org/wikipedia/id/a/ae/Yii.png" />| <img alt="CodeIgniter" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CodeIgniter_Logo.svg/640px-CodeIgniter_Logo.svg.png" />| <img alt="Laravel"     width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png" />
 |---|---|---|---|---|
 
 </div>
