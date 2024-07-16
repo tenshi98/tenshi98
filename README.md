@@ -2,10 +2,8 @@
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Wave.gif" height="55px" width="55px">, soy Victor Reyes.</h1>
 
-[![Gmail](https://img.shields.io/badge/Gmail-Gmail-red?color=EA4335&logo=gmail&style=for-the-badge)](mailto:victor.reyes.nph@gmail.com)
-
 <h2 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> Perfil </h2>
-Soy Full Stack Developer con más de doce años de experiencia en el manejo de tecnologías como javascript, html, css, bootstrap, firebase y especializado en proyectos de PHP Puro o proyectos que lo utilicen. Con experiencia tanto trabajando de forma independiente como en equipos, lo que me ha permitido desarrollas habilidades de autogestión y colaboración orientada a resultados.
+Soy Full Stack Developer con más de doce años de experiencia en el manejo de tecnologías como javascript, html, css, bootstrap, firebase y especializado en proyectos de PHP Puro o proyectos que lo utilicen. Con experiencia tanto trabajando de forma independiente como en equipos, lo que me ha permitido desarrollas habilidades de autogestión y colaboración orientada a resultados. 
 
 Gracias a mi trayectoria en diseño aplico un enfoque centrado en el usuario teniendo en cuenta aspectos funcionales en cada proyecto.
 
