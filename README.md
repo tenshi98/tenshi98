@@ -130,11 +130,9 @@ Me considero una persona flexible y con grandes capacidades de adaptación a nue
 ## 📄 Estadísticas
 
 <p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=tenshi98&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
-</br>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tenshi98"/>
-</br>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenshi98&layout=compact&bg_color=transparent" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenshi98&show_icons=true&locale=en&layout=compact" alt="tenshi98" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=tenshi98&show_icons=true&locale=en" alt="tenshi98" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tenshi98" alt="tenshi98" />
 </p>
 
 </td>
@@ -144,32 +142,25 @@ Me considero una persona flexible y con grandes capacidades de adaptación a nue
 <h2 align="left">💻 Proyectos :</h2>
 <table>
 	<tr>
-		<td width="25%" style="vertical-align: top;">
+		<td width="33%" style="vertical-align: top;">
 			<h3 align="center" style="height:50px;">Sitio Web Digital Creations</h3>
 			<div align="center">
 				<a href="https://web.digitalcreations.cl/" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/web-1.jpg" width="100%" alt="Curso básico android"></a>
 				<p>Sitio web personal donde se ofrecen distintos servicios</p>
 			</div>
 		</td>
-		<td width="25%" style="vertical-align: top;">
+		<td width="34%" style="vertical-align: top;">
 			<h3 align="center" style="height:50px;">Sitio Web SimpliVet</h3>
 			<div align="center">
 				<a href="https://simplivet.cl/" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/web-2.jpg" width="100%" alt="Curso básico android"></a>
 				<p>Sitio web de presentación del software de gestión para centros veterinarios</p>
 			</div>
 		</td>
-		<td width="25%" style="vertical-align: top;">
+		<td width="33%" style="vertical-align: top;">
 			<h3 align="center" style="height:50px;">Plataforma SimpliVet Clientes</h3>
 			<div align="center">
 				<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/intranet-1.jpg" width="100%" alt="Curso básico android"></a>
 				<p>Plataforma de gestión para centros veterinarios con su respectivo flujo de trabajo</p>
-			</div>
-		</td>
-		<td width="25%" style="vertical-align: top;">
-			<h3 align="center" style="height:50px;">Plataforma SimpliVet Tutores</h3>
-			<div align="center">
-				<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/intranet-2.jpg" width="100%" alt="Curso básico android"></a>
-				<p>Plataforma de gestión para los tutores que estén ingresados en la plataforma de los clientes</p>
 			</div>
 		</td>
 	</tr>
