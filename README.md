@@ -159,7 +159,7 @@ Me considero una persona flexible y con grandes capacidades de adaptación a nue
 		<td width="33%" style="vertical-align: top;">
 			<h3 align="center" style="height:50px;">Plataforma SimpliVet Clientes</h3>
 			<div align="center">
-				<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/intranet-1.jpg" width="100%" alt="Curso básico android"></a>
+				<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/intranet-1.jpg" width="100%" alt="Curso básico android"></a>
 				<p>Plataforma de gestión para centros veterinarios con su respectivo flujo de trabajo</p>
 			</div>
 		</td>
