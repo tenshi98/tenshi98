@@ -1,5 +1,14 @@
 <img src='https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Portada%203.png' />
 
+<p align="center">
+	<a href="https://linkedin.com/in/victor-reyes-galvez/" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/social-linkedin.png" alt="Linkedin" height="30" width="30" />
+	</a>
+	<a href="https://web.digitalcreations.cl/" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/social-html-5.png" alt="Digital Creations" height="30" width="30" />
+	</a>
+</p>
+
 <h1 align="center">
 Hola <img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Wave.gif" height="55px" width="55px">, soy Victor Reyes.
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+un+Programador+PHP;Soy+un+Desarrollador+Web;Soy+un+Full+Stack+Developer&hearts;;"></a>
