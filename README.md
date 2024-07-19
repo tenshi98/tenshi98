@@ -31,41 +31,40 @@ Me considero una persona flexible y con grandes capacidades de adaptación a nue
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pure_CSS-blue?style=flat)
 ![Static Badge](https://img.shields.io/badge/HTML_KickStart-green?style=flat)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=java)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=fflat&logo=.net&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=flat&logo=dart)&nbsp;
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)&nbsp;
-![Static Badge](https://img.shields.io/badge/cakePHP-d53d44?style=flat)&nbsp;
-![Static Badge](https://img.shields.io/badge/Yii_PHP_Framework-236ba7?style=flat)&nbsp;
-![Static Badge](https://img.shields.io/badge/Europio_Engine-blue?style=flat)&nbsp;
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)&nbsp;
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&&logo=MongoDB)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-000?&style=flat&logo=SQLite)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=java)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=fflat&logo=.net&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0D1117?style=flat&logo=dart)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)
+![Static Badge](https://img.shields.io/badge/cakePHP-d53d44?style=flat)
+![Static Badge](https://img.shields.io/badge/Yii_PHP_Framework-236ba7?style=flat)
+![Static Badge](https://img.shields.io/badge/Europio_Engine-blue?style=flat)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&&logo=MongoDB)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&style=flat&logo=SQLite)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat&&logo=Kubernetes)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=flat&logo=joomla&logoColor=white)
@@ -93,7 +92,7 @@ Me considero una persona flexible y con grandes capacidades de adaptación a nue
 ![Static Badge](https://img.shields.io/badge/Adobe_Flash-490000?style=flat)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-23239120?style=flat&logo=android%20studio&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=flat&logo=flutter)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=flat&logo=flutter)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
