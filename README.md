@@ -1,13 +1,21 @@
 <img src='https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Portada%203.png' />
 
+<br/>
 <p align="center">
 	<a href="https://linkedin.com/in/victor-reyes-galvez/" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/social-linkedin.png" alt="Linkedin" height="30" width="30" />
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://web.digitalcreations.cl/" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/social-html-5.png" alt="Digital Creations" height="30" width="30" />
+		<img src="https://img.shields.io/badge/Web-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
+	</a>
+	<a href="https://tenshi98.github.io/portafolio/" target="blank">
+		<img src="https://img.shields.io/badge/Portafolio-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
+	</a>
+	<a href="mailto:vreyes@digitalcreations.cl" target="blank">
+		<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
+
 
 <h1 align="center">
 Hola <img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Wave.gif" height="55px" width="55px">, soy Victor Reyes.
