@@ -145,21 +145,21 @@ Me considero una persona flexible y con grandes capacidades de adaptación a nue
 		<td width="33%" style="vertical-align: top;">
 			<h3 align="center" style="height:50px;">Sitio Web Digital Creations</h3>
 			<div align="center">
-				<a href="https://web.digitalcreations.cl/" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/web-1.jpg" width="100%" alt="Curso básico android"></a>
+				<a href="https://web.digitalcreations.cl/" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/web-1.jpg" width="100%" alt="Sitio Web Digital Creations"></a>
 				<p>Sitio web personal donde se ofrecen distintos servicios</p>
 			</div>
 		</td>
 		<td width="34%" style="vertical-align: top;">
 			<h3 align="center" style="height:50px;">Sitio Web SimpliVet</h3>
 			<div align="center">
-				<a href="https://simplivet.cl/" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/web-2.jpg" width="100%" alt="Curso básico android"></a>
+				<a href="https://simplivet.cl/" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/web-2.jpg" width="100%" alt="Sitio Web SimpliVet"></a>
 				<p>Sitio web de presentación del software de gestión para centros veterinarios</p>
 			</div>
 		</td>
 		<td width="33%" style="vertical-align: top;">
 			<h3 align="center" style="height:50px;">Plataforma SimpliVet Clientes</h3>
 			<div align="center">
-				<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/intranet-1.jpg" width="100%" alt="Curso básico android"></a>
+				<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/intranet-1.jpg" width="100%" alt="Plataforma SimpliVet Clientes"></a>
 				<p>Plataforma de gestión para centros veterinarios con su respectivo flujo de trabajo</p>
 			</div>
 		</td>
