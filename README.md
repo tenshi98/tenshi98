@@ -23,7 +23,7 @@ Hola <img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resource
 </h1>
 
 <p align="left">
-Soy Full Stack Developer con más de quince años de experiencia en el manejo de tecnologías como C++, C#, Java, Python, SQL, MySQL, Javascript, especializado en proyectos de PHP Puro y sus tecnologías derivadas. Con experiencia tanto trabajando de forma independiente como en equipos, lo que me ha permitido desarrollar habilidades de autogestión y colaboración orientada a resultados.<br/>
+Soy FullStack Developer con más de quince años de experiencia en el manejo de tecnologías como C++, C#, Java, Python, SQL, MySQL, Javascript, especializado en proyectos de PHP Puro y sus tecnologías derivadas. Con experiencia tanto trabajando de forma independiente como en equipos, lo que me ha permitido desarrollar habilidades de autogestión y colaboración orientada a resultados.<br/>
 
 Gracias a mi trayectoria en diseño aplico un enfoque centrado en el usuario teniendo en cuenta aspectos funcionales en cada proyecto.<br/>
 
