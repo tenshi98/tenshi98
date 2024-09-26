@@ -23,11 +23,11 @@ Hola <img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resource
 </h1>
 
 <p align="left">
-Soy FullStack Developer con más de quince años de experiencia en el manejo de tecnologías como C++, C#, Java, Python, SQL, MySQL, Javascript, especializado en proyectos de PHP Puro y sus tecnologías derivadas. Con experiencia tanto trabajando de forma independiente como en equipos, lo que me ha permitido desarrollar habilidades de autogestión y colaboración orientada a resultados.<br/>
+Soy un FullStack Developer con más de quince años de experiencia desarrollando software, con un amplio manejo de tecnologías como PHP, Java, C++, C#, Python, SQL, MySQL, Javascript y Typescript, así como también en las nuevas tecnologías tales como React.js, Next.js, Astro, Angular, Vue.js, Node.js, Nest.js, GraphQL y Express. Con experiencia trabajando en equipos y de forma independiente, lo que me ha permitido desarrollar habilidades de colaboración orientada a resultados y de autogestión.<br/>
 
-Gracias a mi trayectoria en diseño aplico un enfoque centrado en el usuario teniendo en cuenta aspectos funcionales en cada proyecto.<br/>
+Me considero una persona flexible y con grandes capacidades de adaptación a nuevos entornos y aprendizajes. Me gusta el trabajo en equipo, el intercambio de ideas y experiencia. Soy autodidacta, comprometido y resolutivo, tengo la mejor voluntad y predisposición ante cualquier tarea otorgada.<br/>
 
-Me considero una persona flexible y con grandes capacidades de adaptación a nuevos entornos y aprendizajes. Me gusta el trabajo en equipo, el intercambio de ideas y experiencia. Soy autodidacta, comprometido y resolutivo, tengo la mejor voluntad y predisposición ante cualquier tarea otorgada.
+Gracias a mi trayectoria en diseño aplico un enfoque centrado en el usuario teniendo en cuenta aspectos funcionales en cada proyecto.
 <p>
 
 <table width="100%" >
