@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Portada%203.png' />
+<img src='https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/Portada%204.png' />
 
 <br/>
 <p align="center">
