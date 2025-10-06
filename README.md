@@ -23,7 +23,11 @@ Hola <img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resource
 </h1>
 
 <p align="left">
-Soy un profesional multidisciplinario con más de 15 años de experiencia en desarrollo de software, diseño web y gestión administrativa. Certificado como Diseñador de Aplicaciones Android, Programador PHP, Diseñador Web, Consultor SAP (ABAP-MM) y Contador General. Amplia trayectoria en el desarrollo de aplicaciones móviles y web, integración de APIs y plataformas de pago, administración de sitios web y optimización SEO. Experto en procesos SAP vinculados a la gestión de materiales y producción, así como en tareas contables y financieras. Perfil adaptable, orientado a resultados y con sólidos conocimientos técnicos y funcionales para aportar valor en entornos tecnológicos y empresariales diversos.<br/>
+Soy un FullStack Developer apasionado por la tecnología, con más de 15 años de experiencia en el desarrollo de software.<br>
+Certificado como Diseñador de Aplicaciones Móviles, FullStack Developer, Consultor SAP (ABAP-MM) y Contador General entre otros.
+A lo largo de mi carrera he construido desde cero los sistemas sobre los cuales varias empresas de diversos sectores trabajan
+en el día a día. Poseo un perfil adaptable, orientado a resultados y con sólidos conocimientos técnicos y funcionales para
+aportar valor en entornos tecnológicos y empresariales diversos.<br/>
 
 Me considero una persona flexible y con grandes capacidades de adaptación a nuevos entornos y aprendizajes. Me gusta el trabajo en equipo, el intercambio de ideas y experiencia. Soy autodidacta, comprometido y resolutivo, tengo la mejor voluntad y predisposición ante cualquier tarea otorgada.<br/>
 
