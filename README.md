@@ -146,25 +146,18 @@ Gracias a mi trayectoria en diseño aplico un enfoque centrado en el usuario ten
 <h2 align="left">💻 Proyectos :</h2>
 <table>
 	<tr>
-		<td width="33%" style="vertical-align: top;">
-			<h3 align="center" style="height:50px;">Sitio Web Digital Creations</h3>
-			<div align="center">
-				<a href="https://web.digitalcreations.cl/" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/web-1.jpg" width="100%" alt="Sitio Web Digital Creations"></a>
-				<p>Sitio web personal donde se ofrecen distintos servicios</p>
-			</div>
-		</td>
-		<td width="34%" style="vertical-align: top;">
-			<h3 align="center" style="height:50px;">Sitio Web SimpliVet</h3>
-			<div align="center">
-				<a href="https://simplivet.cl/" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/web-2.jpg" width="100%" alt="Sitio Web SimpliVet"></a>
-				<p>Sitio web de presentación del software de gestión para centros veterinarios</p>
+		<td width="66%" style="vertical-align: top;">
+			<h3 align="center" style="height:50px;">Plataforma coreEngine</h3>
+			<div align="left">
+				<p>Esta plataforma está diseñada específicamente para pequeñas y medianas empresas (PyMEs) con infraestructura de alojamiento estándar, compatible con entornos LAMP/LEMP (servidores Apache o Nginx, PHP y MySQL).</p>
+				<p>El proyecto se basa en Fat-Free Framework (F3), un micro framework reconocido por su ligereza y mínima demanda de recursos de servidor, ideal para entornos de alojamiento compartido o limitados.</p>
+				<p>La ideología del proyecto es trabajar en base a módulos, lo que permite la rápida instalación de nuevas características.</p>
 			</div>
 		</td>
 		<td width="33%" style="vertical-align: top;">
-			<h3 align="center" style="height:50px;">Plataforma SimpliVet Clientes</h3>
 			<div align="center">
-				<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/intranet-1.jpg" width="100%" alt="Plataforma SimpliVet Clientes"></a>
-				<p>Plataforma de gestión para centros veterinarios con su respectivo flujo de trabajo</p>
+				<img src='https://github.com/tenshi98/Trabajo_Imagenes/blob/main/Plataforma%20Campa%C3%B1as/src/img_3.jpg' />
+				<p>Pantalla principal con el módulo de campañas instalado</p>
 			</div>
 		</td>
 	</tr>
@@ -172,7 +165,9 @@ Gracias a mi trayectoria en diseño aplico un enfoque centrado en el usuario ten
 
 
 <h2 align="left">💻 Trofeos :</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tenshi98" alt="tenshi98" /></a></p>
+<p align="left">
+[![trophy](https://github-profile-trophy.vercel.app/?username=tenshi98)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <img src='https://raw.githubusercontent.com/tenshi98/tenshi98/main/resources/dino.gif' />
 
