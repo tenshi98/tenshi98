@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="mailto:vreyes@digitalcreations.cl"><img src="https://img.shields.io/badge/Email-Contactar-red?logo=gmail" /></a>
-  <a href="https://digitalcreations.cl/" target="blank"><img src="https://img.shields.io/badge/Web-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" /></a>
+  <a href="https://digitalcreations.cl/" target="blank"><img src="https://img.shields.io/badge/Sitio-Web-7D4698?logo=Tor-Browser" /></a>
   <a href="https://www.linkedin.com/in/victor-reyes-galvez/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin" /></a>
   <a href="https://tenshi98.github.io/portafolio/" target="blank"><img src="https://img.shields.io/badge/Portafolio-Web-blue?logo=internet-explorer" /></a>
 </p>
