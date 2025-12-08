@@ -88,7 +88,7 @@ Gracias a mi trayectoria en diseño aplico un enfoque centrado en el usuario ten
 
 ### 🔥 Racha de contribuciones
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tenshi98&locale=es&theme=react)](https://git.io/streak-stats)
+	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=tenshi98&locale=es&theme=react" alt="tenshi98" />
 </p>
 
 ### 📊 Estadísticas generales
